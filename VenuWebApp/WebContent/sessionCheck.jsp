@@ -7,7 +7,7 @@
     <h1>Session Replication test App.</h1>
     <%
     if(session.getAttribute("name")==null)
-    	session.setAttribute("name","ALOKAMVENU");
+    	session.setAttribute("name","ALOKAMVENU1111111");
     else
     	System.out.println("\n\t alokam venu ");
     	
