@@ -9,6 +9,8 @@
          System.out.println("\n\t sessionCheck.jsp getAttribute() called on Session with value = "+(String)session.getAttribute("SessionKey"));
     %>
 
+
+
 <h2>
     session.getAttribute("SessionKey") = <%=session.getAttribute("SessionKey") %>   
     <BR><BR>
